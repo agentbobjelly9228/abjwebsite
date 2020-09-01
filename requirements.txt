@@ -1,2 +1,3 @@
 Flask==1.1.2
+smtp==0.1.0
 gunicorn==20.0.4

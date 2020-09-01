@@ -13,24 +13,16 @@ p {
 a {
     padding: 50px;
 }
-
 #hello {
     background-color: grey;
     padding: 20px;
 }
 
-h2 {
+#suggest {
+    font-size: 20px;;
+}
+
+section {
     text-align: center;
-    font-size: 40px;
 }
 
-#todoicon {
-    height: 100px;
-}
-
-#soon {
-    font-size: 30px;
-}
-#what {
-    font-size: 20px;
-}

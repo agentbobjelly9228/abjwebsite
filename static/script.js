@@ -1,5 +1,6 @@
-btn = document.getElementById('test')
-btn.addEventListener("click", function() {
-  alert('test')
-})
+txt = document.getElementById('suggestion')
+btn = document.getElementById('submit')
 
+btn.addEventListener("click", function() {
+    alert('hi')
+})
